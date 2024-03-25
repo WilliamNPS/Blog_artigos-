@@ -1,4 +1,4 @@
-# SIAD - Sistema integrado de arigos para desenvolvedores
+# SIAD - Sistema integrado de artigos para desenvolvedores
 # Bem-vindo ao nosso Portal de Programação
 
 Este repositório é dedicado à divulgação de artigos na área de Programação, com o objetivo de auxiliar novos programadores a dominar as mais recentes tecnologias. Utilizamos tecnologias como Node.js, MySQL, Express e EJS para desenvolver um portal de artigos e um painel administrativo que torna a criação de conteúdo inteligente e eficiente, graças ao poderoso editor TinyMCE.
